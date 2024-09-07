@@ -1,5 +1,7 @@
 # NotesRank-Raw-Code
-The code (mostly PHP) with which I implemented my web application, NotesRank.
+The code (mostly PHP, but with facilitating JavaScript, HTML and CSS) with which I implemented my web application, NotesRank.
+
+ALL CODE IS WRITTEN 100% FROM SCRATCH, WITHOUT AIDE OF IDEs OR EXTERNAL FEEDBACK.
 
 Read more about the purpose and inspiration for this website on my LinkedIn and résumé. Essentially, it is a platform with which college students may
 leverage their own competitiveness into a universal good which saves all participants time and effort, yet optimizes the efficiency of learning itself. Qualified
